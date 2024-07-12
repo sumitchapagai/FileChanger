@@ -10,7 +10,7 @@
 
 👉 [Live Demo](https://modifio.vercel.app/) 👈
 
-👉 [Check out this YouTube video about the project](https://youtu.be/ypYw6Cm6cUk) 👈
+
 
 ![HomePage](https://i.imgur.com/SCTf3Ce.png)
 
